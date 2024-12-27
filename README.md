@@ -1,6 +1,6 @@
 # theproject
 
-Becomeing a Conversational Interaction Engineer with a Self Designed Curriculum
+Becoming a Conversational Interaction Engineer with a Self Designed Curriculum
 
 Program Duration: December 27, 2024 – December 18, 2026
 
